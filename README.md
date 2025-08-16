@@ -14,4 +14,6 @@ Microcontrollers:
 
 My certifications:
 
-Connect with me:
+How to reach me:
+LinkedIn: https://www.linkedin.com/in/kelvin-kadja/
+Email: kadja.3@buckeyemail.osu.edu
