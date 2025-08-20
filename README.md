@@ -24,5 +24,5 @@
 https://tinyurl.com/mycertif
 
 <h3>📞 How to reach me: </h3>
-<a href="https://www.linkedin.com/in/kelvin-kadja/" target="_blank"><i class="fa fa-linkedin-square" style="font-size:48px;color:black"></a>
+<a href="https://www.linkedin.com/in/kelvin-kadja/" target="_blank"><i class="fa fa-linkedin-square" style="font-size:48px;color:black"></i></a>
 Email: kadja.3@buckeyemail.osu.edu
