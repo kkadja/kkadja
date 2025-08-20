@@ -1,6 +1,6 @@
 <h1>Hi, I'm Kelvin! </h1>
 
-<p>I am an E.C.E. student at OSU with experience in software, hardware (embedded systems), and machine learning. I mainly use: </p>
+<p>I'm an E.C.E. student at OSU with experience in software, hardware (embedded systems), and machine learning. I mainly use: </p>
 <ul>
 <li><p>C, C++, and Assembly for projects in embedded systems </p></li>
 <li><p>Java for projects in software development </p></li>
