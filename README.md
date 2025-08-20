@@ -1,4 +1,6 @@
-Hi, my name is Kelvin and I'm a E.C.E (Computer Engineering senior) at OSU with experience developing software and writing code in Java, Python, C/C++, Assembly, R, and SQL.
+<h1>Hi, I'm Kelvin! </h1>
+
+and I'm a E.C.E (Computer Engineering senior) at OSU with experience developing software and writing code in Java, Python, C/C++, Assembly, R, and SQL.
 
 So far, here are some of my coolest projects:
 
