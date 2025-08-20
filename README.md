@@ -6,23 +6,23 @@
 <li><p>Java for projects in software development </p></li>
 <li><p> and Python, SQL, and R for projects in machine learning </p></li>
 </ul>
-<p>I also use tools and frameworks such as NodeJS, Django, React, TensorFlow, AWS, and Docker when working on my projects </p>
+<p>I also use tools and frameworks such as NodeJS, Django, React, TensorFlow, AWS, and Docker for certain projects </p>
 
-<h2>Here are some of my favorite projects: </h3>
+<h2>🧑‍💻 My favorite projects: </h3>
 
-Software:
+<h3>🖥️ Software projects: </h3>
 
-Machine Learning:
+<h3>🤖 Machine Learning projects: </h3>
 
-OnShape CAD:
+<h3>🦾 OnShape CAD designs: </h3>
 
-Statistical Programming (R):
+<h3>➗ Statistical Programming (R) projects: </h3>
 
-Microcontrollers:
+<h3>⚙️ Embedded Systems projects: </h3>
 
-My certifications:
+<h3>📄 My certifications: </h3>
 https://tinyurl.com/mycertif
 
-How to reach me:
+<h3>📞 How to reach me: </h3>
 LinkedIn: https://www.linkedin.com/in/kelvin-kadja/
 Email: kadja.3@buckeyemail.osu.edu
