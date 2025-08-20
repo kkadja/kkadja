@@ -4,7 +4,7 @@
 <ul>
 <li><p>C, C++, and Assembly for projects in embedded systems </p></li>
 <li><p>Java for projects in software development </p></li>
-<li><p> and Python, SQL, and R for projects in machine learning </p></li>
+<li><p>Python, SQL, and R for projects in machine learning </p></li>
 </ul>
 <p>I also use tools and frameworks such as NodeJS, Django, React, TensorFlow, AWS, and Docker for certain projects </p>
 
@@ -24,5 +24,5 @@
 https://tinyurl.com/mycertif
 
 <h3>📞 How to reach me: </h3>
-LinkedIn: https://www.linkedin.com/in/kelvin-kadja/
+<a href="https://www.linkedin.com/in/kelvin-kadja/" target="_blank"><i class="fa fa-linkedin-square" style="font-size:48px;color:black"></a>
 Email: kadja.3@buckeyemail.osu.edu
