@@ -24,5 +24,5 @@
 https://tinyurl.com/mycertif
 
 <h3>📞 How to reach me: </h3>
-<i style="font-size:24px" class="fa">&#xf08c;</i>
+<i class="bi bi-linkedin"></i>
 Email: kadja.3@buckeyemail.osu.edu
