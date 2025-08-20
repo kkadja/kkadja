@@ -20,9 +20,6 @@
 
 <h3>⚙️ Embedded Systems projects: </h3>
 
-<h3>📄 My certifications: </h3>
-https://tinyurl.com/mycertif
-
 <h3>📞 How to reach me: </h3>
 <p>LinkedIn: https://www.linkedin.com/in/kelvin-kadja/ </p>
 <p>Email: kadja.3@buckeyemail.osu.edu </p>
