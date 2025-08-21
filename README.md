@@ -14,7 +14,6 @@ I'm an E.C.E. student at OSU with experience in software, embedded systems, and 
 
 <h3>🖥️ Software Development projects: </h3>
 <h3>🤖 Machine Learning projects: </h3>
-<h3>🦾 OnShape CAD designs: </h3>
 <h3>➗ Statistical Programming (R) projects: </h3>
 <h3>⚙️ Embedded Systems projects: </h3>
 
