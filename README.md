@@ -11,11 +11,6 @@ I'm an E.C.E. student at OSU with experience in software, embedded systems, and 
 <p>I also use tools and frameworks such as NodeJS, Django, React, TensorFlow, AWS, and Docker for certain projects</p>
 
 <h1>🧑‍💻 My Favorite Projects: </h1>
-
-<h3>🖥️ Software Development projects: </h3>
-<ul>
-  <li><a href="https://github.com/kkadja/Machine-Learning">All completed DeepLearning.ai projects</a></li>
-</ul>
 <h3>🤖 Machine Learning projects: </h3>
 <ul>
   <li><a href="https://github.com/kkadja/Machine-Learning">All completed Machine Learning projects</a></li>
