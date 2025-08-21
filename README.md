@@ -18,7 +18,7 @@ I'm an E.C.E. student at OSU with experience in software, embedded systems, and 
 </ul>
 <h3>🤖 Machine Learning projects: </h3>
 <ul>
-  <li><a href="https://github.com/kkadja/Machine-Learning">All completed DeepLearning.ai projects</a></li>
+  <li><a href="https://github.com/kkadja/Machine-Learning">All completed Machine Learning projects</a></li>
 </ul>
 <h3>⚙️ Embedded Systems, MATLAB, and R projects: </h3>
 <ul>
