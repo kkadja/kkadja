@@ -4,9 +4,9 @@ I'm a senior computer engineering student at OSU and an aspiring data scientist 
 
 <h1>🧑‍💻 My Favorite Projects: </h1>
 <ul>
-  <li><a href="https://github.com/kkadja/mnist-project" target="_blank">Neural Networks for Handwritten Digit Recognition (MNIST)</a></li>
-  <li><a href="https://github.com/kkadja/mnist-project">Deep Q-Learning Implementation for Lunar Lander</a></li>
-  <li><a href="https://github.com/kkadja/mnist-project">Java Tag‐Cloud Generator with HuggingFace Kokoro Model Inferencing</a></li>
+  <li><a href="https://github.com/kkadja/mnist-project" target="_blank" >Neural Networks for Handwritten Digit Recognition (MNIST)</a></li>
+  <li><a href="https://github.com/kkadja/mnist-project" target="_blank" >Deep Q-Learning Implementation for Lunar Lander</a></li>
+  <li><a href="https://github.com/kkadja/mnist-project" target="_blank" >Java Tag‐Cloud Generator with HuggingFace Kokoro Model Inferencing</a></li>
 </ul>
 
 # 💻 My Tech Stack:
