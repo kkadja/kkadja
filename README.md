@@ -3,15 +3,10 @@
 I'm a senior computer engineering student at OSU and an aspiring data scientist with experience developing full-stack web applications, as well as building and integrating machine learning models into software applications. You'll find some of my favorite projects below.
 
 <h1>🧑‍💻 My Favorite Projects: </h1>
-<h3>🤖 Neural Networks for Handwritten Digit Recognition (MNIST): </h3>
 <ul>
-  <li><a href="https://github.com/kkadja/Machine-Learning"><h3>Neural Networks for Handwritten Digit Recognition (MNIST)</h3></a></li>
-</ul>
-<h3>⚙️ Embedded Systems, MATLAB, and R projects: </h3>
-<ul>
-  <li><a href="https://github.com/kkadja/Embedded-Systems">Embedded Systems projects</a></li>
-  <li><a href="https://github.com/kkadja/MATLAB">MATLAB projects</a></li>
-  <li><a href="https://github.com/kkadja/R-Projects">R projects</a></li>
+  <li><a href="https://github.com/kkadja/mnist-project">Neural Networks for Handwritten Digit Recognition (MNIST)</a></li>
+  <li><a href="https://github.com/kkadja/mnist-project">Deep Q-Learning Implementation for Lunar Lander</a></li>
+  <li><a href="https://github.com/kkadja/mnist-project">Java Tag‐Cloud Generator with HuggingFace Kokoro Model Inferencing</a></li>
 </ul>
 
 # 💻 My Tech Stack:
