@@ -1,19 +1,11 @@
 # 👋 Hi, I'm Kelvin | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kelvin-kadja) 
 
-I'm an E.C.E. student at OSU with experience in software, embedded systems, and machine learning. I mainly use:
-
-<ul>
-  <li>C, C++, and Assembly for projects in embedded systems</li>
-  <li>Java for projects in software development</li>
-  <li>Python, SQL, and R for projects in machine learning</li>
-</ul>
-
-<p>I also use tools and frameworks such as NodeJS, Django, React, TensorFlow, AWS, and Docker for certain projects</p>
+I'm a senior computer engineering student at OSU and an aspiring data scientist with experience developing full-stack web applications, as well as building and integrating machine learning models into software applications. You'll find some of my favorite projects below.
 
 <h1>🧑‍💻 My Favorite Projects: </h1>
-<h3>🤖 Machine Learning projects: </h3>
+<h3>🤖 Neural Networks for Handwritten Digit Recognition (MNIST): </h3>
 <ul>
-  <li><a href="https://github.com/kkadja/Machine-Learning">All completed Machine Learning projects</a></li>
+  <li><a href="https://github.com/kkadja/Machine-Learning"><h3>Neural Networks for Handwritten Digit Recognition (MNIST)</h3></a></li>
 </ul>
 <h3>⚙️ Embedded Systems, MATLAB, and R projects: </h3>
 <ul>
